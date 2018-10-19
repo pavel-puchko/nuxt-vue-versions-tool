@@ -1,0 +1,63 @@
+{
+  "url": "/artifactory",
+  "repo": "SubmodulesVersions",
+  "projects": [
+    {
+      "name": "Bingo Blitz",
+      "platforms": [
+        {
+          "path": "bingo/haxe/report.json",
+          "name": "Haxe"
+        },
+        {
+          "path": "bingo/csharp/report.json",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "name": "Slotomania",
+      "platforms": [
+        {
+          "path": "slotomania/haxe/report.json",
+          "name": "Haxe"
+        },
+        {
+          "path": "slotomania/csharp/report.json",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "name": "Poker Heat",
+      "platforms": [
+        {
+          "path": "pokerfriends/haxe/report.json",
+          "name": "Haxe"
+        }
+      ]
+    },
+    {
+      "name": "Caesars Casino",
+      "platforms": [
+        {
+          "path": "caesars/haxe/report.json",
+          "name": "Haxe"
+        },
+        {
+          "path": "caesars/csharp/report.json",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "name": "VDS",
+      "platforms": [
+        {
+          "path": "vds/csharp/report.json",
+          "name": "C#"
+        }
+      ]
+    }
+  ]
+}
